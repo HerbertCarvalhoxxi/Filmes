@@ -1,0 +1,35 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+a{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+body{
+  background-color: #1c1b1d;
+  color: #fbae2c;
+ 
+}
+
+ion-icon {
+  color: #fbae2c;
+  cursor: pointer;
+  padding: 0;
+  margin: 0;
+  
+}
+
+button{
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
